@@ -1,6 +1,6 @@
 <template>
-    <div class="page__container">
-        <custom-404-page />
+    <div>
+        <h1>custom 404 page 1</h1>
     </div>
 </template>
 
