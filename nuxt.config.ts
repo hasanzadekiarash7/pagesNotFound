@@ -3,5 +3,11 @@ export default defineNuxtConfig({
   devtools: { enabled: true },
   modules: [
 
+  ],
+  components: [
+    {
+      path: "~/components",
+      pathPrefix: false
+    }
   ]
 })
